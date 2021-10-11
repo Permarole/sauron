@@ -1,0 +1,27 @@
+*,
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+
+div {
+	height: calc(100vw / 11);
+	border: solid white 1px;
+}
+
+.bg-danger {
+	background-color: #ff7f2a !important;
+}
+
+.bg-warning {
+	background-color: #ffcc00 !important;
+}
+
+.bg-secondary {
+	background-color: #333333 !important;
+}
+
+.bg-dark {
+	background-color: #000000 !important;
+}
